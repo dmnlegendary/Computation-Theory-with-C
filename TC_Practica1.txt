@@ -1,0 +1,27 @@
+Practica 1. Alfabetos, símbolos y cadenas
+
+Un prefijo de la cadena "s" es cualquier cadena que se obtiene al eliminar cero o más símbolos del final de "s".
+Por ejemplo, "velo", "velocidad" y "lambda" son prefijos de w="velocidad"
+
+Prefijo, sufijo, subcadena, subsecuencia.
+
+- Las practicas deben tener un menu cíclico
+- En cada una se imprimen los resultados
+
+1. Operaciones de Prefijo, sufijo con un argumento "n=?" el cual n representa la cantidad de caracteres para quitar de cada uno
+2. Subcadena P y S (n=?, m=?) de una cadena "s" remover el P y S.
+3. Subsecuencia: Remover las posiciones de la cadena. (Si se remueven todas solo queda lambda, ademas
+4. Potencia (Tanto negativa como positiva)
+
+EJEMPLO: W = "correr rapido"
+1)
+Sea n=8
+PREFIJO = "corre"
+SUBFIJO = "apido"
+2)
+n=4, m=3
+RESULTADO = "er rap"
+3)
+con 0, 5, 7, 2 obtenemos: s="rre apido"
+4)
+sea W^3 = "correr rapidocorrer rapidocorrer rápido"
