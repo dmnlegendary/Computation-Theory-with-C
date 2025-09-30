@@ -1,0 +1,8 @@
+Practica 2. Operaciones sobre lenguajes
+
+Sean L1, L2 lenguajes sobre un alfabeto, existen 3 operaciones importantes a aplicar
+sobre ellas: union, concatenacion y potencias
+
+1. Union de los lenguajes
+2. Concatenacion de los lenguajes (L1L2 o L2L1)
+3. Potencia sobre alguno de los dos lenguajes
